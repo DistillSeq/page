@@ -1,5 +1,6 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: DistillSeq
+description: A Framework for Safety Alignment Testing in Large Language Models using Knowledge Distillation
+show_downloads: false
+
+google_analytics: 
 theme: jekyll-theme-cayman
