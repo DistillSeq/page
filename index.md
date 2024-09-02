@@ -18,7 +18,7 @@ Large Language Models (LLMs) have showcased their remarkable capabilities in div
 
 *Mingke Yang, Yuqi Chen, Yi Liu, Ling Shi*
 
-[[Preprint](https://arxiv.org/abs/2407.10106)] [[Code](https://arxiv.org/abs/2407.10106)]
+[[Preprint](https://arxiv.org/abs/2407.10106)] [[Code](https://github.com/DistillSeq/DistillSeq)]
 
 BibTex for citation:
 
