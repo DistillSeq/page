@@ -22,21 +22,13 @@ Large Language Models (LLMs) have showcased their remarkable capabilities in div
 
 BibTex for citation:
 
-<font size=3>@misc{yang2024distillseqframeworksafetyalignment,</font>
-
-​      	<font size=3>title={DistillSeq: A Framework for Safety Alignment Testing in Large Language Models using Knowledge Distillation}, </font>
-
-​      	<font size=3>author={Mingke Yang and Yuqi Chen and Yi Liu and Ling Shi},</font>
-
-​      	<font size=3>year={2024},</font>
-
-​      	<font size=3>eprint={2407.10106},</font>
-
-​      	<font size=3>archivePrefix={arXiv},</font>
-
-​      	<font size=3>primaryClass={cs.SE},</font>
-
-​     	<font size=3> url={https://arxiv.org/abs/2407.10106}</font>
-
-<font size=3>}</font>
+```
+@inproceedings{yang2024distillseq,
+  title={DistillSeq: A Framework for Safety Alignment Testing in Large Language Models using Knowledge Distillation},
+  author={Yang, Mingke and Chen, Yuqi and Liu, Yi and Shi, Ling},
+  booktitle={Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis},
+  pages={578--589},
+  year={2024}
+}
+```
 
